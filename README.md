@@ -1,4 +1,4 @@
-# -Wireshark PCAP Analysis
+# Wireshark PCAP Analysis
 
 📌 Project Overview
 This project demonstrates a comprehensive network traffic analysis using Wireshark to investigate a security breach. The objective is to perform a deep-dive analysis on a captured PCAP file to identify the root cause of a suspicious file anomaly detected on a corporate web server.
