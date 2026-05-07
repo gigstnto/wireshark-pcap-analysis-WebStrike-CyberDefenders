@@ -7,6 +7,7 @@ Scenario:
 An alert was raised within the company's intranet regarding a suspicious file on the web server. The Development team flagged the anomaly, suspecting potential malicious activity. In response, the network team captured critical traffic to facilitate a forensic review. My task is to uncover the attack vector, determine how the file was introduced, and assess the extent of unauthorized activity within the network.
 
 🎯 Project Objectives
+
 Identify suspicious network activity using packet-level analysis
 Apply Wireshark filters to isolate relevant traffic
 Extract Indicators of Compromise (IOCs)
