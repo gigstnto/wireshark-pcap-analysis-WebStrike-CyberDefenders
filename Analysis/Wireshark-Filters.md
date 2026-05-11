@@ -31,7 +31,6 @@ menggunakan metode Double Extension Bypass.
 ## 3. Command & Control — Deteksi Reverse Shell
 
 **Tujuan:** Memantau koneksi outbound mencurigakan ke port 8080.
-http.request.method == POST, Right-click on the selected packet and select Follow > HTTP Stream to view the conversation.
 
 **Hasil:** Server korban (`24.49.63.79`) membuka koneksi balik ke mesin
 penyerang pada port 8080 — indikasi kuat adanya Reverse Shell aktif.
