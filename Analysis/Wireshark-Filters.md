@@ -8,7 +8,7 @@ Semua filter dapat langsung di-copy ke kolom filter bar Wireshark.
 ## 1. Reconnaissance — Identifikasi Traffic Penyerang
 
 **Tujuan:** Melihat seluruh traffic yang berasal dari IP penyerang.
-http.request.method == GET
+http.request.method == "GET"
 
 **Hasil:** Teridentifikasi aktivitas scanning dan HTTP request mencurigakan
 dari IP `117.11.88.124` (Tianjin, China).
