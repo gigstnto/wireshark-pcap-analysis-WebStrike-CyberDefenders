@@ -14,12 +14,14 @@ Untuk melakukan analisis ini, lingkungan kerja yang digunakan meliputi:
 ```text
 ├── Analysis/
 │   ├── Incident-Timeline.md
+│   ├── Post-Exploitation.md
 │   ├── Web-Attack-Analysis.md
-│   └── Post-Exploitation.md
+│   └── Wireshark-Filters.md
 ├── Evidence/
 │   ├── attacker_info.jpg
-│   ├── webshell_upload.jpg
-│   └── reverse_shell_exfiltr.jpg
+│   ├── reverse_shell_exfiltr.jpg
+│   ├── trackIP.jpg
+│   └── webshell_upload.jpg
 ├── IOC/
 │   └── Indicators.md
 ├── Lab-setup/
