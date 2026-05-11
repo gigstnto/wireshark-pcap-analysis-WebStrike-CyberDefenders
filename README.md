@@ -12,15 +12,19 @@ Untuk melakukan analisis ini, lingkungan kerja yang digunakan meliputi:
 
 ## 📂 Repository Structure
 ```text
-├── analysis/
-│   ├── Incident-Timeline.md     # Urutan kronologis serangan
-│   ├── Web-Attack-Analysis.md   # Detail eksploitasi & profil penyerang
-│   └── Post-Exploitation.md     # Aktivitas penyerang setelah akses didapat
-├── evidence/
-│   ├── attacker_info.jpg        # Screenshot profil penyerang
-│   ├── webshell_upload.jpg      # Bukti upload file berbahaya
-│   └── reverse_shell_exfiltr.jpg # Bukti terminal & pencurian data
-└── README.md                    # Dokumentasi utama
+├── Analysis/
+│   ├── Incident-Timeline.md
+│   ├── Web-Attack-Analysis.md
+│   └── Post-Exploitation.md
+├── Evidence/
+│   ├── attacker_info.jpg
+│   ├── webshell_upload.jpg
+│   └── reverse_shell_exfiltr.jpg
+├── IOC/
+│   └── Indicators.md
+├── Lab-setup/
+│   └── Infrastructure-Setup.md
+└── README.md
 ```
 ## 🕵️ Analysis Summary
 1. Incident Timeline
