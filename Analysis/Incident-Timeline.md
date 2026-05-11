@@ -9,4 +9,3 @@ Urutan kejadian berdasarkan analisis paket data (Network Forensics):
 | **Command & Control**| Reverse Shell | 24.49.63.79 | Server membuka koneksi outbound ke IP penyerang pada port **8080**. |
 | **Exfiltration** | Data Theft | 24.49.63.79 | Upaya pencurian file `/etc/passwd` terdeteksi via perintah `curl`. |
 
-![Attacker Profile](../Evidence/attacker_info.jpg)
