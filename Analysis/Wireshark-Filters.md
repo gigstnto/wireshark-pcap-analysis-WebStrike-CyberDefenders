@@ -12,7 +12,7 @@ http.request.method == GET
 
 **Hasil:** Teridentifikasi aktivitas scanning dan HTTP request mencurigakan
 dari IP `117.11.88.124` (Tianjin, China).
-
+![TrackIP](../Evidence/trackIP.jpg)
 ---
 
 ## 2. Exploitation — Deteksi Upload Webshell
