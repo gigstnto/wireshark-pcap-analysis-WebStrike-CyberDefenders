@@ -76,5 +76,3 @@ termasuk perintah `curl` untuk exfiltration data.
 | Traffic server korban | `ip.addr == 24.49.63.79` |
 
 ---
-
-[⬅️ Kembali ke Web Attack Analysis](./Web-Attack-Analysis.md)
